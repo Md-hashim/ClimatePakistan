@@ -1,0 +1,61 @@
+.aside-dark .menu .menu-item .menu-section {
+    color: #b6b7cd!important;
+}
+
+.aside-dark .menu .menu-item .menu-link .menu-title {
+    color: #ffffff;
+}
+
+.aside-dark .menu .menu-item .menu-link .menu-icon, .aside-dark .menu .menu-item .menu-link .menu-icon .svg-icon, .aside-dark .menu .menu-item .menu-link .menu-icon i {
+    color: #ffffff;
+}
+.aside.aside-dark
+{
+    background-image: linear-gradient(to right, #378b29, #74d680 )
+}
+.aside.aside-dark .separator {
+    border-bottom-color: #3867d6;
+}
+.aside.aside-dark .aside-logo {
+    background-color: #ffffff;
+}
+
+.aside-dark .menu .menu-item.hover:not(.here)>.menu-link:not(.disabled):not(.active):not(.here), .aside-dark .menu .menu-item:not(.here) .menu-link:hover:not(.disabled):not(.active):not(.here) {
+    transition: color .2s ease,background-color .2s ease;
+    background-color: #08085d;
+    color: #fff;
+}
+
+
+/*.menu-link{*/
+/*    display: block;*/
+/*    padding: 10px;*/
+/*    text-decoration: none;*/
+/*    color: #000; !* Change the text color to your desired color *!*/
+/*    background-color: transparent; !* Set the initial background color *!*/
+/*    border-radius: 0; !* Set the initial border radius *!*/
+/*    transition: background-color 0.3s, border-radius 0.3s; !* Add a smooth transition effect *!*/
+/*}*/
+
+.menu-link:hover,.menu-link.active {
+    background-color: #016ad0; /* Change the background color on hover */
+    /*border-radius: 5px; !* Add a border radius on hover *!*/
+    /*margin-right: 10px;*/
+    /*margin-left: 10px;*/
+    color: #fff !important;
+}
+
+.menu-link:hover .menu-title,.menu-link.active .menu-title  {
+    color: #fff !important; /* Change the color to white on hover */
+}
+.nav-sm{
+    color:black !important;
+}
+
+.menu-active-bg .menu-item .menu-link.active {
+    transition: color .2s ease,background-color .2s ease;
+    background-color: rgb(245 248 250 / 0%);
+}
+.aside-dark .menu .menu-item .menu-link.active .menu-icon .svg-icon{
+    color:white;
+}

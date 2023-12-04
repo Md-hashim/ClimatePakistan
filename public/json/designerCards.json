@@ -1,0 +1,374 @@
+[
+    {
+        "type": "Business Card",
+        "cards": [
+            {
+                "templateName": "template_1",
+                "backgroundImage": "media/cardDesigns/background.png",
+                "previewImage": "media/cardDesigns/card_1.png",
+                "name": {
+                    "top": 170,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "email": {
+                    "top": 360,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "address": {
+                    "top": 520,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "image": {
+                    "top": 195,
+                    "bottom": 0,
+                    "left": 750,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "contact": {
+                    "top": 280,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "imageContainer":
+                {
+                    "width": "350",
+                    "height": "350"
+                }
+            },
+            {
+                "templateName": "template_2",
+                "backgroundImage": "media/cardDesigns/background.png",
+                "previewImage": "media/cardDesigns/card_2.png",
+                "name": {
+                    "top": 170,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "email": {
+                    "top": 360,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "address": {
+                    "top": 520,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "image": {
+                    "top": 195,
+                    "bottom": 0,
+                    "left": 750,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "contact": {
+                    "top": 280,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "imageContainer":
+                {
+                    "width": "350",
+                    "height": "350"
+                }
+            },
+            {
+                "templateName": "template_3",
+                "backgroundImage": "media/cardDesigns/background.png",
+                "previewImage": "media/cardDesigns/card_3.png",
+                "name": {
+                    "top": 170,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "email": {
+                    "top": 360,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "address": {
+                    "top": 520,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "image": {
+                    "top": 195,
+                    "bottom": 0,
+                    "left": 750,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "contact": {
+                    "top": 280,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "imageContainer":
+                {
+                    "width": "350",
+                    "height": "350"
+                }
+            },
+            {
+                "templateName": "template_4",
+                "backgroundImage": "media/cardDesigns/background.png",
+                "previewImage": "media/cardDesigns/card_4.png",
+                "name": {
+                    "top": 170,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "email": {
+                    "top": 360,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "address": {
+                    "top": 520,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "image": {
+                    "top": 195,
+                    "bottom": 0,
+                    "left": 750,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "contact": {
+                    "top": 280,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "imageContainer":
+                {
+                    "width": "350",
+                    "height": "350"
+                }
+            },
+            {
+                "templateName": "template_5",
+                "backgroundImage": "media/cardDesigns/background.png",
+                "previewImage": "media/cardDesigns/card_5.png",
+                "name": {
+                    "top": 170,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "email": {
+                    "top": 360,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "address": {
+                    "top": 520,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "image": {
+                    "top": 195,
+                    "bottom": 0,
+                    "left": 750,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "contact": {
+                    "top": 280,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "imageContainer":
+                {
+                    "width": "350",
+                    "height": "350"
+                }
+            }
+
+        ]
+    },
+    {
+        "type": "Brochure Card",
+        "cards": [
+            {
+                "templateName": "brochure_template_7",
+                "backgroundImage": "media/cardDesigns/background.png",
+                "previewImage": "media/cardDesigns/brochure_1.png",
+                "name": {
+                    "top": 170,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "email": {
+                    "top": 360,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "address": {
+                    "top": 520,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "image": {
+                    "top": 195,
+                    "bottom": 0,
+                    "left": 750,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "contact": {
+                    "top": 280,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "imageContainer":
+                {
+                    "width": "350",
+                    "height": "350"
+                }
+            },
+            {
+                "templateName": "brochure_template_1",
+                "backgroundImage": "media/cardDesigns/background.png",
+                "previewImage": "media/cardDesigns/brochure_2.png",
+                "name": {
+                    "top": 170,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "email": {
+                    "top": 360,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "address": {
+                    "top": 520,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "image": {
+                    "top": 195,
+                    "bottom": 0,
+                    "left": 750,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "contact": {
+                    "top": 280,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "imageContainer":
+                {
+                    "width": "350",
+                    "height": "350"
+                }
+            },
+            {
+                "templateName": "brochure_template_2",
+                "backgroundImage": "media/cardDesigns/background.png",
+                "previewImage": "media/cardDesigns/brochure_3.png",
+                "name": {
+                    "top": 170,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "email": {
+                    "top": 360,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "address": {
+                    "top": 520,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "image": {
+                    "top": 195,
+                    "bottom": 0,
+                    "left": 750,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "contact": {
+                    "top": 280,
+                    "bottom": 0,
+                    "left": 170,
+                    "right": 0,
+                    "color": "#ffffff"
+                },
+                "imageContainer":
+                {
+                    "width": "350",
+                    "height": "350"
+                }
+            }
+        ]
+    }
+
+]
